@@ -1,0 +1,262 @@
+ID,Brand,Tipe,CPU,RAM,Memori,GPU,SistemOperasi,Berat,Layar
+0,Pulse,Gaming,Intel Core i7 6820HK 2.7GHz,32GB,512GB SSD +  1.0TB Hybrid,Nvidia GeForce GTX 980M,Gemini 5,4.6kg,17.3inch IPS Panel Full HD 1920x1080
+1,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,No OS,1.86kg,15.6inch 1366x768
+2,Eclipse,Notebook,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Gemini 5,2.2kg,15.6inch 1366x768
+3,Orbit,Ultrabook,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 620,Gemini 5 S,1.252kg,13.5inch Touchscreen 2256x1504
+4,Pulse,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.36kg,12.5inch IPS Panel Full HD 1920x1080
+5,Pulse,2 in 1 Convertible,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.8kg,14.0inch IPS Panel Full HD / Touchscreen 1920x1080
+6,Zenith,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,4.2kg,17.3inch IPS Panel Full HD 1920x1080
+7,Vivid,Ultrabook,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,1.26kg,12.5inch Full HD 1920x1080
+8,Galaxy,Gaming,Intel Core i7 6700HQ 2.6GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.94kg,15.6inch Full HD 1920x1080
+9,Vivid,Notebook,AMD A6-Series 9220 2.5GHz,4GB,500GB HDD,AMD Radeon 530,Gemini 5,2.71kg,17.3inch Full HD 1920x1080
+10,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX1050 Ti,Gemini 5,3kg,17.3inch Full HD 1920x1080
+11,Pulse,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,8GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.37kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+12,Stellar,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,12GB,2TB HDD,Nvidia GeForce 940MX,Gemini 5,2.3kg,15.6inch Full HD / Touchscreen 1920x1080
+13,Vivid,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.84kg,15.6inch Full HD 1920x1080
+14,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Gemini 5,2.04kg,15.6inch 1366x768
+15,Eclipse,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,12GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.6kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+16,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,180GB SSD,Intel HD Graphics 620,Gemini 5,1.7kg,14.0inch Full HD 1920x1080
+17,Pulse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Nvidia GeForce GTX 1050 Ti,Gemini 5,2.4kg,15.6inch Full HD 1920x1080
+18,Pulse,Notebook,Intel Core i7 7500U 2.7GHz,4GB,1TB HDD,Intel HD Graphics 620,Gemini 5,1.85kg,15.6inch Full HD 1920x1080
+19,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.7kg,17.3inch Full HD 1920x1080
+20,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel HD Graphics 620,Gemini 5,2.14kg,15.6inch 1366x768
+21,Eclipse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Nvidia GeForce GTX 1050,Gemini 5,2.56kg,15.6inch Full HD 1920x1080
+22,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+23,Galaxy,Gaming,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Gemini 5,1.91kg,15.6inch Full HD 1920x1080
+24,Stellar,Notebook,AMD A9-Series 9420 3GHz,4GB,1TB HDD,AMD Radeon R5 M420,Gemini 5,1.68kg,15.6inch 1366x768
+25,Stellar,Ultrabook,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce MX150,Gemini 5,1.5kg,15.6inch Full HD 1920x1080
+26,Vivid,Notebook,Intel Pentium Quad Core N3710 1.6GHz,4GB,256GB SSD,Intel HD Graphics 405,Gemini 5,1.86kg,15.6inch Full HD 1920x1080
+27,Pulse,Ultrabook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.36kg,12.5inch IPS Panel Full HD 1920x1080
+28,Epic,Notebook,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB Flash Storage,Intel HD Graphics 500,Gemini 5,1.3kg,14.0inch IPS Panel Full HD 1920x1080
+29,Eclipse,Notebook,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,Intel HD Graphics 520,Gemini 5,2.18kg,15.6inch 1366x768
+30,Vivid,Notebook,AMD A9-Series 9420 3GHz,4GB,1TB HDD,AMD Radeon 520,Gemini 5,2.1kg,15.6inch Full HD 1920x1080
+31,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.91kg,15.6inch 1366x768
+32,Vivid,Notebook,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.96kg,15.6inch Full HD 1920x1080
+33,Pulse,Notebook,Intel Core i7 6500U 2.5GHz,8GB,1TB HDD,Nvidia GeForce 940MX,Gemini 5,2.2kg,15.6inch IPS Panel Full HD 1920x1080
+34,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Nvidia GeForce GTX 1050 Ti,Penguin OS,3kg,17.3inch Full HD 1920x1080
+35,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Nvidia GeForce 920M,Gemini 5,2.4kg,15.6inch Full HD 1920x1080
+36,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,1.86kg,15.6inch Full HD 1920x1080
+37,Stellar,2 in 1 Convertible,Intel Core M M7-6Y75 1.2GHz,8GB,64GB Flash Storage,Intel HD Graphics 515,RamEater OS,1.2kg,12.5inch Full HD 1920x1080
+38,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,128GB SSD +  1TB HDD,AMD R17M-M1-70,Gemini 5,1.90kg,15.6inch Full HD 1920x1080
+39,Vivid,Ultrabook,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,AMD Radeon R7 M365X,Gemini 5,1.84kg,15.6inch Full HD 1920x1080
+40,Eclipse,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,AMD Radeon R5 M430,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+41,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.7kg,17.3inch IPS Panel Full HD 1920x1080
+42,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,No OS,1.96kg,15.6inch 1366x768
+43,Pulse,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.4kg,13.3inch IPS Panel Full HD 1920x1080
+44,Stellar,Notebook,Intel Pentium Quad Core N4200 1.1GHz,4GB,1TB HDD,Nvidia GeForce 920MX,Gemini 5,2.8kg,17.3inch 1366x768
+45,Pulse,Notebook,AMD A12-Series 9720P 3.6GHz,6GB,256GB SSD,AMD Radeon 530,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+46,Pulse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS,2.4kg,15.6inch IPS Panel Full HD 1920x1080
+47,Stellar,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2.37kg,15.6inch Full HD 1920x1080
+48,Stellar,Notebook,Intel Celeron Dual Core N3350 1.1GHz,4GB,128GB SSD,Intel HD Graphics 500,Gemini 5,1.86kg,15.6inch 1366x768
+49,Eclipse,Notebook,Intel Core i5 7440HQ 2.8GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.6kg,14.0inch Full HD 1920x1080
+50,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.95kg,14.0inch Full HD 1920x1080
+51,Eclipse,2 in 1 Convertible,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.6kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+52,Pulse,Workstation,Intel Core i7 7600U 2.8GHz,16GB,1TB SSD,Nvidia Quadro M520M,Gemini 5,2.5kg,15.6inch IPS Panel 4K Ultra HD 3840x2160
+53,Stellar,Notebook,Intel Core i3 7100U 2.4GHz,4GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2kg,14.0inch Full HD 1920x1080
+54,Stellar,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce 940MX,Gemini 5,1.7kg,15.6inch Full HD 1920x1080
+55,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.95kg,15.6inch IPS Panel Full HD 1920x1080
+56,Pulse,2 in 1 Convertible,Intel Core i5 7200U 2.5GHz,8GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.37kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+57,Puzzle,Ultrabook,Intel Core i5 7Y57 1.2GHz,8GB,128GB SSD,Intel HD Graphics 615,RamEater OS,1.1kg,12.3inch Touchscreen 2400x1600
+58,Pulse,Notebook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,AMD Radeon RX 550,Gemini 5,1.75kg,14.0inch IPS Panel Full HD 1920x1080
+59,Pulse,Ultrabook,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Intel HD Graphics 520,Gemini 5,1.17kg,14.0inch IPS Panel Quad HD+ 2560x1440
+60,Pulse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,No OS,2.5kg,15.6inch IPS Panel Full HD 1920x1080
+61,Vivid,Notebook,Intel Core i5 8250U 1.6GHz,8GB,1TB HDD,Intel UHD Graphics 620,Gemini 5,2.1kg,15.6inch Full HD 1920x1080
+62,Zenith,Notebook,AMD A8-Series 7410 2.2GHz,4GB,500GB HDD,AMD Radeon R5,Gemini 5,2.4kg,15.6inch 1366x768
+63,Eclipse,Notebook,Intel Core i5 7300U 2.6GHz,4GB,500GB HDD,Intel HD Graphics 620,Penguin OS,1.93kg,15.6inch 1366x768
+64,Pulse,2 in 1 Convertible,Intel Core i7 6500U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 520,Gemini 5,1.8kg,14.0inch IPS Panel Full HD / Touchscreen 1920x1080
+65,Eclipse,Notebook,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Nvidia GeForce 930MX,Gemini 5,1.93kg,15.6inch Full HD 1920x1080
+66,Pulse,Workstation,Intel Core i7 6500U 2.5GHz,16GB,512GB SSD,Nvidia Quadro M520M,Gemini 2,2.18kg,15.6inch Full HD 1920x1080
+67,Eclipse,Notebook,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 2,2.09kg,15.6inch Full HD 1920x1080
+68,Eclipse,Ultrabook,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Intel UHD Graphics 620,Gemini 5,1.2kg,13.3inch Touchscreen / Quad HD+ 3200x1800
+69,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+70,Vivid,Notebook,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Nvidia GeForce 930MX ,Gemini 5,2.5kg,17.3inch Full HD 1920x1080
+71,Pulse,Ultrabook,Intel Core i7 6600U 2.6GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 2,1.7kg,14.0inch Full HD 1920x1080
+72,Eclipse,Notebook,Intel Core i7 8550U 1.8GHz,16GB,256GB SSD +  2TB HDD,AMD Radeon 530,Penguin OS,2.02kg,15.6inch Full HD 1920x1080
+73,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Gemini 5,3kg,17.3inch Full HD 1920x1080
+74,Zenith,Notebook,Intel Core i3 7100U 2.4GHz,4GB,1TB HDD,Intel HD Graphics 620,Gemini 5,2.4kg,15.6inch 1366x768
+75,Cosmo,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.31kg,13.3inch Full HD / Touchscreen 1920x1080
+76,Eclipse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,1.0TB Hybrid,Nvidia GeForce GTX 1050,Gemini 5,2.65kg,15.6inch Full HD 1920x1080
+77,Eclipse,Ultrabook,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 2,1.26kg,12.5inch Full HD / Touchscreen 1920x1080
+78,Pulse,Notebook,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,2.17kg,15.6inch Full HD 1920x1080
+79,Eclipse,Ultrabook,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.2kg,13.3inch Full HD 1920x1080
+80,Stellar,Notebook,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.5kg,15.6inch Full HD 1920x1080
+81,Pulse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Nvidia GeForce GTX 1060,No OS,2.4kg,15.6inch Full HD 1920x1080
+82,Pulse,Notebook,Intel Core i3 6100U 2.3GHz,6GB,128GB SSD,Nvidia GeForce 920MX,Gemini 5,2.4kg,15.6inch Full HD 1920x1080
+83,Zenith,Notebook,Intel Core i3 6006U 2GHz,4GB,1TB HDD,Nvidia GeForce 940MX,Gemini 5,3.3kg,17.3inch 1600x900
+84,Pulse,Notebook,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+85,Stellar,Gaming,Intel Core i7 6700HQ 2.6GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Gemini 5,4.3kg,17.3inch IPS Panel Full HD 1920x1080
+86,Stellar,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD +  2TB HDD,Nvidia GeForce GTX 950M,Gemini 5,2.3kg,15.6inch 4K Ultra HD / Touchscreen 3840x2160
+87,Pulse,Notebook,Intel Core i7 7500U 2.7GHz,4GB,1TB HDD,Nvidia GeForce 920MX,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+88,Vivid,Notebook,AMD A9-Series 9410 2.9GHz,6GB,1.0TB Hybrid,AMD Radeon R7 M440,Gemini 5,2.04kg,15.6inch Full HD 1920x1080
+89,Eclipse,2 in 1 Convertible,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Intel UHD Graphics 620,Gemini 5,2kg,15.6inch Full HD / Touchscreen 1920x1080
+90,Pulse,Notebook,Intel Celeron Dual Core N3350 1.1GHz,4GB,500GB HDD,Intel HD Graphics 500,Gemini 5,2.1kg,14.0inch 1366x768
+91,Stellar,Notebook,Intel Pentium Quad Core N3710 1.6GHz,4GB,1TB HDD,Intel HD Graphics 405,Gemini 5,2.65kg,15.6inch 1366x768
+92,Stellar,Netbook,Intel Atom x5-Z8350 1.44GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Gemini 5,0.98kg,11.6inch 1366x768
+93,Vivid,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,16GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.42kg,13.3inch Quad HD+ / Touchscreen 3200x1800
+94,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.7kg,17.3inch Full HD 1920x1080
+95,Stellar,Notebook,Intel Core i7 6500U 2.5GHz,4GB,500GB HDD,Nvidia GeForce 920M,Gemini 5,2.2kg,15.6inch 1366x768
+96,Stellar,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD +  1TB HDD,Intel HD Graphics 620,Gemini 5,2kg,15.6inch Full HD 1920x1080
+97,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2.04kg,15.6inch Full HD 1920x1080
+98,Eclipse,Netbook,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB Flash Storage,Intel HD Graphics 400,RamEater OS,1.26kg,11.6inch 1366x768
+99,Eclipse,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.29kg,13.3inch Full HD 1920x1080
+100,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050 Ti,No OS,2.5kg,15.6inch IPS Panel Full HD 1920x1080
+101,Zenith,Notebook,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Penguin OS,2.4kg,15.6inch 1366x768
+102,Stellar,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD +  1TB HDD,Intel HD Graphics 620,Gemini 5,2kg,14.0inch Full HD 1920x1080
+103,Eclipse,2 in 1 Convertible,Intel Core i3 6100U 2.3GHz,4GB,1TB HDD,Intel HD Graphics 520,Gemini 5,2.08kg,15.6inch IPS Panel Full HD / Touchscreen 1920x1080
+104,Eclipse,Ultrabook,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.21kg,13.3inch IPS Panel 4K Ultra HD / Touchscreen 3840x2160
+105,Eclipse,2 in 1 Convertible,Intel Core i7 7Y75 1.3GHz,8GB,512GB SSD,Intel HD Graphics 615,Gemini 5,1.24kg,13.3inch Quad HD+ / Touchscreen 3200x1800
+106,Pulse,Notebook,AMD A6-Series 9220 2.9GHz,4GB,500GB HDD,AMD Radeon R4 Graphics,No OS,2.2kg,15.6inch 1366x768
+107,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,2TB HDD,Intel HD Graphics 620,Gemini 5,2.36kg,15.6inch Touchscreen 1366x768
+108,Vivid,Notebook,Intel Core i7 6500U 2.5GHz,6GB,1TB HDD,AMD Radeon R5 M330,Gemini 5,2.19kg,15.6inch 1366x768
+109,Vivid,Netbook,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Gemini 5,1.17kg,11.6inch 1366x768
+110,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Intel HD Graphics 520,Gemini 5,1.91kg,15.6inch Full HD 1920x1080
+111,Vivid,Gaming,Intel Core i7 7700HQ 2.8GHz,12GB,1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,3.78kg,17.3inch IPS Panel Full HD 1920x1080
+112,Pulse,Ultrabook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.32kg,14.0inch IPS Panel Full HD 1920x1080
+113,Pulse,Workstation,Intel Core i7 7600U 2.8GHz,16GB,512GB SSD,Nvidia GeForce 940MX,Gemini 5,2.3kg,15.6inch IPS Panel 4K Ultra HD 3840x2160
+114,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX1060,Gemini 5,2.24kg,15.6inch Full HD 1920x1080
+115,Vivid,Netbook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.26kg,12.5inch Full HD 1920x1080
+116,Lumina,Ultrabook,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.08kg,15.6inch IPS Panel Full HD / Touchscreen 1920x1080
+117,Pulse,Ultrabook,Intel Core i7 7500U 2.7GHz,16GB,1TB SSD,Intel HD Graphics 620,Gemini 5,1.13kg,14.0inch IPS Panel 2560x1440
+118,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,No OS,1.86kg,15.6inch Full HD 1920x1080
+119,Pulse,Notebook,Intel Core i3 7100U 2.4GHz,4GB,128GB SSD,Intel HD Graphics 620,Gemini 5,1.5kg,13.3inch IPS Panel Full HD 1920x1080
+120,Eclipse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Gemini 5,4.42kg,15.6inch IPS Panel 4K Ultra HD 3840x2160
+121,Traverse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 620,Gemini 5,1.05kg,13.3inch Full HD 1920x1080
+122,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel HD Graphics 620,Gemini 5,2.06kg,15.6inch Full HD 1920x1080
+123,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Gemini 5,2.5kg,15.6inch IPS Panel Full HD 1920x1080
+124,Pulse,Notebook,Intel Core i7 6700HQ 2.6GHz,8GB,1TB HDD,Nvidia GeForce GTX 960M,Gemini 5,2.6kg,15.6inch IPS Panel Full HD 1920x1080
+125,Vivid,Notebook,AMD A10-Series A10-9620P 2.5GHz,6GB,128GB SSD,AMD Radeon 530,Gemini 5,1.91kg,15.6inch IPS Panel Full HD 1920x1080
+126,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,No OS,2.3kg,15.6inch IPS Panel Full HD 1920x1080
+127,Eclipse,Ultrabook,Intel Core i7 7600U 2.8GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.6kg,12.5inch Full HD 1920x1080
+128,Quasar,Gaming,Intel Core i7 7820HK 2.9GHz,32GB,512GB SSD,Nvidia GeForce GTX 1080,Gemini 5,3.49kg,17.3inch 4K Ultra HD / Touchscreen 3840x2160
+129,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,24GB,512GB SSD,Nvidia GeForce GTX1080,Gemini 5,2.24kg,15.6inch Full HD 1920x1080
+130,Vivid,Notebook,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.43kg,14.0inch Full HD 1920x1080
+131,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,128GB SSD,Intel HD Graphics 620,Gemini 5,1.44kg,13.3inch Full HD 1920x1080
+132,Traverse,Ultrabook,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.2kg,13.3inch Full HD 1920x1080
+133,Pulse,Gaming,Intel Core i7 7700HQ 2.8GHz,4GB,1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.4kg,15.6inch IPS Panel Full HD 1920x1080
+134,Eclipse,Gaming,Intel Core i7 7700HQ 2.8GHz,32GB,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Gemini 5,4.42kg,17.3inch IPS Panel 4K Ultra HD 3840x2160
+135,Pulse,Notebook,AMD A8-Series 7410 2.2GHz,4GB,128GB SSD,AMD Radeon R5,Gemini 5,2.6kg,17.3inch 1600x900
+136,Zenith,2 in 1 Convertible,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.6kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+137,Zenith,Notebook,AMD A9-Series 9420 3GHz,4GB,256GB SSD,AMD Radeon R5,Gemini 5,2.1kg,15.6inch 1366x768
+138,Vivid,Gaming,Intel Core i5 6300HQ 2.3GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 965M,Gemini 5,2.75kg,17.3inch IPS Panel Full HD 1920x1080
+139,Pulse,2 in 1 Convertible,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.42kg,14.0inch IPS Panel Touchscreen 2560x1440
+140,Stellar,2 in 1 Convertible,Intel Core i5 7200U 2.5GHz,6GB,1TB HDD,Intel HD Graphics 620,Gemini 5,1.5kg,13.3inch Full HD / Touchscreen 1920x1080
+141,Eclipse,Workstation,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Nvidia Quadro M1200,Gemini 5,1.78kg,15.6inch Full HD 1920x1080
+142,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+143,Traverse,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2.0kg,15.6inch IPS Panel Full HD 1920x1080
+144,Zenith,Notebook,Intel Core i3 7130U 2.7GHz,4GB,1TB HDD,Nvidia GeForce MX130,Gemini 5,3kg,17.3inch IPS Panel Full HD 1920x1080
+145,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.2kg,15.6inch IPS Panel Full HD 1920x1080
+146,Vivid,Ultrabook,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.26kg,12.5inch Full HD 1920x1080
+147,Zenith,2 in 1 Convertible,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.6kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+148,Whiz,Notebook,Intel Atom x5-Z8300 1.44GHz,4GB,64GB Flash Storage,Intel HD Graphics,Gemini 5,1.89kg,15.6inch Full HD 1920x1080
+149,Stellar,Notebook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.4kg,14.0inch Full HD 1920x1080
+150,Stellar,2 in 1 Convertible,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.1kg,13.3inch Full HD / Touchscreen 1920x1080
+151,Eclipse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.56kg,15.6inch Full HD 1920x1080
+152,Pulse,2 in 1 Convertible,Intel Core i7 6600U 2.6GHz,8GB,512GB SSD,Nvidia Quadro M500M,Gemini 2,1.8kg,14.0inch IPS Panel Full HD / Touchscreen 1920x1080
+153,Eclipse,Notebook,Intel Core i3 6006U 2.0GHz,4GB,1TB HDD,AMD Radeon R5 M430,Penguin OS,2.25kg,15.6inch 1366x768
+154,Vivid,Notebook,AMD A12-Series 9700P 2.5GHz,8GB,2TB HDD,AMD Radeon R7 Graphics,Gemini 5,2.04kg,15.6inch 1366x768
+155,Vivid,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce MX150,Gemini 5,1.38kg,13.3inch IPS Panel Full HD 1920x1080
+156,Vivid,Notebook,Intel Core i7 7500U 2.7GHz,8GB,1TB HDD,Nvidia GeForce 930MX,Gemini 5,2.63kg,17.3inch Full HD 1920x1080
+157,Vivid,Notebook,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Gemini 5,1.44kg,14.0inch 1366x768
+158,Pulse,Notebook,Intel Core i5 6200U 2.3GHz,4GB,1TB HDD,Intel HD Graphics 520,No OS,2.15kg,15.6inch Full HD 1920x1080
+159,Eclipse,Ultrabook,Intel Core i7 7600U 2.8GHz,16GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.18kg,12.5inch Full HD 1920x1080
+160,Traverse,Notebook,Intel Core i5 6200U 2.3GHz,4GB,128GB SSD,Intel HD Graphics 520,Gemini 5,1.75kg,14.0inch IPS Panel 1366x768
+161,Eclipse,2 in 1 Convertible,Intel Core i7 8550U 1.8GHz,8GB,1TB HDD,Intel UHD Graphics 620,Gemini 5,1.62kg,13.3inch IPS Panel Full HD / Touchscreen 1920x1080
+162,Zenith,Notebook,Intel Celeron Dual Core 3205U 1.5GHz,2GB,16GB SSD,Intel HD Graphics,RamEater OS,2.19kg,15.6inch 1366x768
+163,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,AMD Radeon R7 M445,Gemini 5,2.36kg,15.6inch 1366x768
+164,Eclipse,Notebook,Intel Core i3 6006U 2GHz,4GB,256GB SSD,AMD Radeon R5 M430,Penguin OS,2.2kg,15.6inch Full HD 1920x1080
+165,Traverse,Notebook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,2.2kg,15.6inch 1366x768
+166,Eclipse,Notebook,Intel Core i7 7500U 2.7GHz,12GB,1TB HDD,Intel HD Graphics 620,Gemini 5,2.3kg,15.6inch 1366x768
+167,Zenith,Notebook,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16GB Flash Storage,Intel HD Graphics,RamEater OS,2.20kg,15.6inch IPS Panel Full HD 1920x1080
+168,Pulse,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce 940MX,Gemini 5,1.87kg,14.0inch IPS Panel Full HD 1920x1080
+169,Eclipse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Gemini 5,2.65kg,15.6inch IPS Panel Full HD 1920x1080
+170,Zenith,Notebook,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Nvidia GeForce 940MX,Gemini 5,2.23kg,15.6inch Full HD 1920x1080
+171,Galaxy,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+172,Vivid,Notebook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.63kg,14.0inch Full HD 1920x1080
+173,Pulse,Notebook,AMD A12-Series 9720P 3.6GHz,12GB,2TB HDD,AMD Radeon 530,Gemini 5,2.2kg,15.6inch Full HD 1920x1080
+174,Pulse,Ultrabook,Intel Core i7 7500U 2.7GHz,8GB,256GB Flash Storage,Intel HD Graphics 620,Gemini 5,1.13kg,14.0inch IPS Panel Full HD 1920x1080
+175,Eclipse,Workstation,Intel Core i7 7700HQ 2.8GHz,8GB,256GB SSD,Nvidia Quadro M1200,Gemini 5,1.78kg,15.6inch 4K Ultra HD / Touchscreen 3840x2160
+176,Eclipse,Notebook,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,AMD Radeon R5 M315,Gemini 2,2.24kg,15.6inch 1366x768
+177,Pulse,Notebook,Intel Core i3 6006U 2GHz,8GB,128GB SSD,Intel HD Graphics 520,Gemini 5,2.2kg,15.6inch 1366x768
+178,Traverse,Notebook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.95kg,14.0inch Full HD 1920x1080
+179,Vivid,2 in 1 Convertible,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Gemini 5,2.3kg,15.6inch Touchscreen 1366x768
+180,Vivid,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Nvidia GeForce 930MX,Gemini 5,1.64kg,14.0inch Full HD 1920x1080
+181,Pulse,Notebook,Intel Core i5 8250U 1.6GHz,4GB,500GB HDD,Intel HD Graphics 620,Gemini 5,2.05kg,15.6inch Full HD 1920x1080
+182,Pulse,Notebook,Intel Celeron Dual Core N3350 1.1GHz,2GB,32GB Flash Storage,Intel HD Graphics 500,Gemini 5,1.15kg,11.6inch 1366x768
+183,Vivid,Workstation,Intel Core i7 6700HQ 2.6GHz,8GB,256GB SSD,Nvidia Quadro M3000M,Gemini 2,3kg,17.3inch IPS Panel Full HD 1920x1080
+184,Eclipse,Notebook,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Intel HD Graphics 520,Gemini 5,1.65kg,13.3inch 1366x768
+185,Vivid,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,3.35kg,17.3inch IPS Panel Full HD 1920x1080
+186,Vivid,Notebook,Intel Celeron Quad Core N3450 1.1GHz,4GB,32GB SSD,Intel HD Graphics 500,Gemini 5,1.45kg,14.0inch IPS Panel Full HD 1920x1080
+187,Eclipse,Gaming,Intel Core i7 7820HK 2.9GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Gemini 5,3.49kg,15.6inch Full HD 1920x1080
+188,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,AMD Radeon R7 M445,Gemini 5,2.36kg,15.6inch Full HD 1920x1080
+189,Eclipse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Gemini 5,2.56kg,15.6inch Full HD 1920x1080
+190,Quantum,Ultrabook,Intel Core M 1.2GHz,8GB,512GB Flash Storage,Intel HD Graphics 515,Orange OS X,0.920kg,12.0inch IPS Panel Retina Display 2304x1440
+191,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,Intel HD Graphics 620,Gemini 5,1.6kg,14.0inch 1366x768
+192,Galaxy,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,256GB SSD,Nvidia GeForce GTX 1050,Gemini 5,2.4kg,15.6inch Full HD 1920x1080
+193,Eclipse,2 in 1 Convertible,Intel Core i7 8550U 1.8GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.62kg,13.3inch Full HD / Touchscreen 1920x1080
+194,Pulse,Notebook,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.4kg,13.3inch IPS Panel Full HD 1920x1080
+195,Zenith,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,2.4kg,15.6inch 1366x768
+196,Pulse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.5kg,15.6inch IPS Panel Full HD 1920x1080
+197,Stellar,Notebook,Intel Celeron Dual Core N3050 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Gemini 5,2.2kg,15.6inch 1366x768
+198,Eclipse,2 in 1 Convertible,Intel Core i7 6500U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.62kg,13.3inch Full HD / Touchscreen 1920x1080
+199,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Intel HD Graphics 620,Gemini 5,2.04kg,15.6inch Full HD 1920x1080
+200,Traverse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2.0kg,15.6inch IPS Panel Full HD 1920x1080
+201,Pulse,2 in 1 Convertible,Intel Core M m7-6Y75 1.2GHz,8GB,256GB SSD,Intel HD Graphics 515,Gemini 5,1.1kg,11.3inch IPS Panel Full HD / Touchscreen 1920x1080
+202,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2.18kg,15.6inch Full HD 1920x1080
+203,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia GeForce 930MX,Gemini 5,2.63kg,17.3inch 1600x900
+204,Stellar,Gaming,AMD Ryzen 1600 3.2GHz,8GB,256GB SSD +  1TB HDD,AMD Radeon RX 580,Gemini 5,3.2kg,17.3inch Full HD 1920x1080
+205,Traverse,Notebook,Intel Core i5 6200U 2.3GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,1.75kg,14.0inch 1366x768
+206,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,128GB SSD,Intel HD Graphics 520,Gemini 5,1.63kg,15.6inch 1366x768
+207,Traverse,Ultrabook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.2kg,13.3inch 1366x768
+208,Stellar,Notebook,Intel Core i5 7200U 2.5GHz,8GB,1TB HDD,Nvidia GeForce 940MX,Penguin OS,2.3kg,15.6inch 1366x768
+209,Vivid,Workstation,Intel Core i5 7440HQ 2.8GHz,8GB,500GB HDD,Nvidia Quadro M1200,Gemini 5,3.14kg,17.3inch 1600x900
+210,Vivid,Notebook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.16kg,13.3inch Full HD 1920x1080
+211,Stellar,Notebook,Intel Core i7 7500U 2.7GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,2kg,14.0inch Full HD 1920x1080
+212,Eclipse,Notebook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,AMD Radeon 520,Gemini 5,2.13kg,15.6inch Full HD 1920x1080
+213,Vivid,Netbook,Intel Celeron Dual Core N3060 1.6GHz,2GB,32GB Flash Storage,Intel HD Graphics 400,Gemini 5,1.17kg,11.6inch 1366x768
+214,Eclipse,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Gemini 5,4.42kg,17.3inch IPS Panel Full HD 1920x1080
+215,Zenith,Notebook,Intel Pentium Quad Core N3710 1.6GHz,4GB,128GB Flash Storage,Intel HD Graphics 405,Gemini 5,1.4kg,11.6inch 1366x768
+216,Vivid,Notebook,Intel Core i7 7500U 2.7GHz,4GB,500GB HDD,AMD Radeon 530,Gemini 5,2.1kg,15.6inch IPS Panel Full HD 1920x1080
+217,Eclipse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Intel HD Graphics,Gemini 5,2.25kg,15.6inch Full HD 1920x1080
+218,Eclipse,Notebook,Intel Pentium Quad Core N3700 1.6GHz,4GB,500GB HDD,Intel HD Graphics,Penguin OS,2.2kg,15.6inch 1366x768
+219,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.43kg,17.3inch Full HD 1920x1080
+220,Eclipse,Ultrabook,Intel Core i7 8650U 1.9GHz,8GB,256GB SSD +  256GB SSD,Intel UHD Graphics 620,Gemini 5,1.88kg,15.6inch Full HD 1920x1080
+221,Eclipse,Ultrabook,Intel Core i7 8550U 1.8GHz,16GB,1TB SSD,Intel UHD Graphics 620,Gemini 5,1.21kg,13.3inch IPS Panel 4K Ultra HD / Touchscreen 3840x2160
+222,Zenith,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.7kg,15.6inch IPS Panel Full HD 1920x1080
+223,Pulse,Notebook,Intel Core i5 7200U 2.5GHz,4GB,1TB HDD,Nvidia GeForce 920MX,Gemini 5,2.79kg,17.3inch 1600x900
+224,Eclipse,2 in 1 Convertible,Intel Pentium Quad Core N3710 1.6GHz,4GB,500GB HDD,Intel HD Graphics 405,Gemini 5,1.47kg,11.6inch Touchscreen 1366x768
+225,Eclipse,Ultrabook,Intel Core i5 8250U 1.6GHz,8GB,256GB SSD,Intel UHD Graphics 620,Gemini 5,1.23kg,13.3inch Full HD 1920x1080
+226,Pulse,Notebook,Intel Core i7 6500U 2.5GHz,8GB,1.0TB Hybrid,AMD Radeon R5 M330,Gemini 2,2.32kg,15.6inch Full HD 1920x1080
+227,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,Gemini 5,1.86kg,15.6inch 1366x768
+228,Pulse,2 in 1 Convertible,Intel Core i7 7700HQ 2.8GHz,16GB,512GB SSD,Nvidia GeForce GTX 1050,Gemini 5,2kg,15.6inch IPS Panel 4K Ultra HD / Touchscreen 3840x2160
+229,Eclipse,Notebook,Intel Core i7 8550U 1.8GHz,16GB,512GB SSD,Nvidia GeForce 150MX,Gemini 5,2.77kg,17.3inch Full HD / Touchscreen 1920x1080
+230,Eclipse,Notebook,Intel Core i3 6006U 2GHz,8GB,256GB SSD,AMD Radeon R5 M420X,Gemini 5,2kg,15.6inch Full HD 1920x1080
+231,Stellar,2 in 1 Convertible,Intel Core i7 7500U 2.7GHz,12GB,512GB SSD +  2TB HDD,Nvidia GeForce GT 940MX,Gemini 5,2.26kg,15.6inch Full HD / Touchscreen 1920x1080
+232,Pulse,Notebook,Intel Core i3 6006U 2.0GHz,8GB,1TB HDD,Intel HD Graphics 520,Gemini 5,2.2kg,15.6inch 1366x768
+233,Vivid,Ultrabook,Intel Core i7 6500U 2.5GHz,8GB,512GB SSD,Intel HD Graphics 520,Gemini 5,1.16kg,13.3inch Full HD 1920x1080
+234,Vivid,Notebook,AMD A6-Series 9220 2.5GHz,4GB,1TB HDD,AMD Radeon R4,Gemini 5,2.1kg,15.6inch Full HD 1920x1080
+235,Galaxy,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Gemini 5,2.94kg,15.6inch Full HD 1920x1080
+236,Vivid,2 in 1 Convertible,Intel Celeron Dual Core N3350 1.1GHz,4GB,32GB SSD,Intel HD Graphics 500,Gemini 5,1.16kg,11.6inch IPS Panel Full HD / Touchscreen 1920x1080
+237,Zenith,Notebook,AMD A9-Series 9420 3GHz,4GB,500GB HDD,AMD Radeon R5,Gemini 5,2.1kg,15.6inch 1366x768
+238,Eclipse,Notebook,Intel Celeron Dual Core N3050 1.6GHz,2GB,500GB HDD,Intel HD Graphics,Gemini 5,2.20kg,15.6inch 1366x768
+239,Zenith,Notebook,Intel Pentium Quad Core N3710 1.6GHz,4GB,128GB Flash Storage,Intel HD Graphics 405,Gemini 5,1.6kg,14.0inch 1366x768
+240,Vivid,Ultrabook,Intel Core i5 6300U 2.4GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 2,1.26kg,12.5inch 1366x768
+241,Stellar,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.3kg,15.6inch IPS Panel Full HD 1920x1080
+242,Zenith,Notebook,Intel Celeron Dual Core N3350 2GHz,4GB,500GB HDD,Intel HD Graphics 500,Gemini 5,2.1kg,15.6inch 1366x768
+243,Vivid,Notebook,Intel Core i5 6200U 2.3GHz,8GB,256GB SSD,Intel HD Graphics 520,Gemini 2,1.95kg,14.0inch Full HD 1920x1080
+244,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,3kg,17.3inch Full HD 1920x1080
+245,Pulse,Netbook,Intel Celeron Dual Core N3060 1.6GHz,4GB,16GB SSD,Intel HD Graphics 400,RamEater OS,1.25kg,11.6inch 1366x768
+246,Traverse,Notebook,Intel Core i5 7200U 2.5GHz,8GB,256GB SSD,Intel HD Graphics 620,Gemini 5,1.25kg,14.0inch IPS Panel Full HD / Touchscreen 1920x1080
+247,Vivid,Notebook,Intel Core i5 7200U 2.5GHz,4GB,500GB HDD,AMD Radeon 520,Gemini 5,1.86kg,15.6inch 1366x768
+248,Stellar,Gaming,Intel Core i7 6700HQ 2.6GHz,16GB,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.73kg,17.3inch Full HD 1920x1080
+249,Pulse,Gaming,Intel Core i5 7300HQ 2.5GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Gemini 5,2.4kg,15.6inch IPS Panel Full HD 1920x1080
+250,Traverse,Ultrabook,Intel Core i7 7500U 2.7GHz,16GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.05kg,13.3inch Full HD 1920x1080
+251,Vivid,Notebook,Intel Core i7 8550U 1.8GHz,8GB,512GB SSD,Intel UHD Graphics 620,Gemini 5,1.49kg,13.3inch Full HD 1920x1080
+252,Traverse,Ultrabook,Intel Core i7 7500U 2.7GHz,32GB,512GB SSD,Intel HD Graphics 620,Gemini 5,1.05kg,13.3inch Full HD / Touchscreen 1920x1080
+253,Zenith,Notebook,Intel Core i5 7200U 2.5GHz,4GB,256GB SSD,Nvidia GeForce 940MX,Gemini 5,2.23kg,15.6inch Full HD 1920x1080
+254,Vivid,Notebook,Intel Core i3 6006U 2GHz,4GB,500GB HDD,Intel HD Graphics 520,No OS,2.1kg,15.6inch Full HD 1920x1080
+255,Zenith,Netbook,Intel Celeron Dual Core N3050 1.6GHz,4GB,32GB Flash Storage,Intel HD Graphics,Gemini 5,1.4kg,11.6inch 1366x768
+256,Stellar,Gaming,Intel Core i7 7700HQ 2.8GHz,16GB,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Gemini 5,2.9kg,17.3inch Full HD 1920x1080
+257,Pulse,Ultrabook,Intel Core i7 6600U 2.6GHz,12GB,256GB SSD,Intel HD Graphics 520,Gemini 5,1.4kg,14.0inch IPS Panel Full HD 1920x1080
+258,Zenith,Notebook,Intel Core i7 7700HQ 2.8GHz,8GB,1TB HDD,Nvidia GeForce GTX 1050,Penguin OS,2.4kg,15.6inch Full HD 1920x1080
+259,Vivid,Notebook,Intel Core i3 6006U 2GHz,6GB,1TB HDD,AMD Radeon R5 M430,Gemini 5,2.04kg,15.6inch 1920x1080
+260,Pulse,2 in 1 Convertible,Intel Atom x5-Z8550 1.44GHz,4GB,64GB Flash Storage,Intel HD Graphics 400,Gemini 5,0.69kg,10.1inch IPS Panel Touchscreen 1920x1200
